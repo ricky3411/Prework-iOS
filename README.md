@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+    Knowing the Model View Controller is really helpful to understand how to    implement the labels and text field I added to the story board.
 
 ## License
 
